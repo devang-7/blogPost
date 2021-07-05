@@ -6,7 +6,7 @@ const bodyParser = require("body-parser");
 const ejs = require("ejs");
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://admin-devang:blog8920709210@cluster0.5pi3q.mongodb.net/blogDB", {
+mongoose.connect("xxxxx", {
   useNewUrlParser: true,
 });
 
