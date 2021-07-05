@@ -1,1 +1,1 @@
-![alt text](https://github.com/devang-7/Web-Development-Projects/blob/master/Blog/Capture.PNG)
+![alt text](https://github.com/devang-7/blogPost/blob/main/Capture.PNG)
